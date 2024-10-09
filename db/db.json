@@ -1,0 +1,50 @@
+{
+  "status": [
+    {
+      "id": "1",
+      "tipo": "Pendente"
+    },
+    {
+      "id": "2",
+      "tipo": "Em andamento"
+    },
+    {
+      "id": "3",
+      "tipo": "Concluída"
+    }
+  ],
+  "tasks": [
+    {
+      "id": "1",
+      "titulo": "Criar Site A",
+      "descricao": "Criação do site A com X linguagem e utilização de W, A, S e D ferramentas.",
+      "duracao": "Médio Prazo",
+      "opcaoTeste": [],
+      "status": "Pendente"
+    },
+    {
+      "id": "2",
+      "titulo": "Estudo do framework Vue.js",
+      "descricao": "Assistir vídeo sobre o framework Vue.js",
+      "duracao": "Curto Prazo",
+      "opcaoTeste": [],
+      "status": "Pendente"
+    },
+    {
+      "id": "3",
+      "titulo": "Assistir aulas do curso de PHP",
+      "descricao": "Assistir aulas do curso de PHP que estou participando.",
+      "duracao": "Curto Prazo",
+      "opcaoTeste": [],
+      "status": "Pendente"
+    },
+    {
+      "id": "4",
+      "titulo": "Ver conteúdo sobre Laravel",
+      "descricao": "Pesquisar e estudar conteúdo sobre Laravel.",
+      "duracao": "Médio Prazo",
+      "opcaoTeste": [],
+      "status": "Pendente"
+    }
+  ]
+}
